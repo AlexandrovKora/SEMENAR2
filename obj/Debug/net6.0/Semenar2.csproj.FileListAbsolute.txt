@@ -1,0 +1,15 @@
+C:\Users\lp-fa\Desktop\Программирование\C#semenars\Semenar2\bin\Debug\net6.0\Semenar2.exe
+C:\Users\lp-fa\Desktop\Программирование\C#semenars\Semenar2\bin\Debug\net6.0\Semenar2.deps.json
+C:\Users\lp-fa\Desktop\Программирование\C#semenars\Semenar2\bin\Debug\net6.0\Semenar2.runtimeconfig.json
+C:\Users\lp-fa\Desktop\Программирование\C#semenars\Semenar2\bin\Debug\net6.0\Semenar2.dll
+C:\Users\lp-fa\Desktop\Программирование\C#semenars\Semenar2\bin\Debug\net6.0\Semenar2.pdb
+C:\Users\lp-fa\Desktop\Программирование\C#semenars\Semenar2\obj\Debug\net6.0\Semenar2.csproj.AssemblyReference.cache
+C:\Users\lp-fa\Desktop\Программирование\C#semenars\Semenar2\obj\Debug\net6.0\Semenar2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lp-fa\Desktop\Программирование\C#semenars\Semenar2\obj\Debug\net6.0\Semenar2.AssemblyInfoInputs.cache
+C:\Users\lp-fa\Desktop\Программирование\C#semenars\Semenar2\obj\Debug\net6.0\Semenar2.AssemblyInfo.cs
+C:\Users\lp-fa\Desktop\Программирование\C#semenars\Semenar2\obj\Debug\net6.0\Semenar2.csproj.CoreCompileInputs.cache
+C:\Users\lp-fa\Desktop\Программирование\C#semenars\Semenar2\obj\Debug\net6.0\Semenar2.dll
+C:\Users\lp-fa\Desktop\Программирование\C#semenars\Semenar2\obj\Debug\net6.0\refint\Semenar2.dll
+C:\Users\lp-fa\Desktop\Программирование\C#semenars\Semenar2\obj\Debug\net6.0\Semenar2.pdb
+C:\Users\lp-fa\Desktop\Программирование\C#semenars\Semenar2\obj\Debug\net6.0\Semenar2.genruntimeconfig.cache
+C:\Users\lp-fa\Desktop\Программирование\C#semenars\Semenar2\obj\Debug\net6.0\ref\Semenar2.dll
